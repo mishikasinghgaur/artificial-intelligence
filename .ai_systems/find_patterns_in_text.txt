@@ -1,0 +1,13 @@
+Word2Vec is a natural language processing technique developed by Google in two papers 
+published in 2013. It is made up of models for mapping words to vectors of real numbers, or 
+for creating embeddings. Word embeddings work on the premise that words that appear in a 
+similar context in a text tend to be near to each other in vector space. Using vector 
+representations of words in machine learning models has since become a generally 
+accepted standard. 
+
+The task here is to perform text analysis on the given dataset of Coronavirus News 
+Headlines using Word2Vec model and PCA for data visualization. The goal is to find patterns 
+and clusters in the text data that can help in understanding the topics and themes of the 
+news articles. The choice of using Word2Vec and PCA is justified as Word2Vec is a widely 
+used method for creating word embeddings and PCA is a useful technique for reducing the 
+dimensionality of the data for visualization purposes.
